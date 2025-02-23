@@ -92,6 +92,8 @@ export default function Project() {
           <div>
             <button style={styles.buttonPrimary}>Add New Project</button>
             <button style={styles.buttonSecondary}>Download report</button>
+            <button style={styles.buttonSecondary}>dd/mm/yyyy - dd/mm/yyyy</button>
+            <button style={styles.buttonSecondary}>Filter</button>
           </div>
         </div>
         <ProjectCardsGrid>
